@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/show_hide"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/show_hide" />
+    <item
+        android:id="@+id/change_title_bg"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:title="@string/change_title_bg" />
+</menu>

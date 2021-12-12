@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TP06</string>
+    <string-array name="country_names">
+        <item>A</item>
+        <item>J</item>
+        <item>H</item>
+        <item>B</item>
+        <item>F</item>
+        <item>L</item>
+        <item>m</item>
+        <item>E</item>
+    </string-array>
+    <string name="ASC">Sort A-Z</string>
+    <string name="DESC">Sort Z-A</string>
+    <string name="delete">Delete</string>
+    <string name="wiki">Got to wiki</string>
+    <string name="listP">Menu RecyclerView</string>
+    <string name="show_hide">Show/Hide RecyclerView</string>
+    <string name="change_title_bg">Change title background</string>
+    <string name="list">List</string>
+</resources>
